@@ -26,16 +26,11 @@ This project is a movie recommender web application built during Zot Hacks 2023.
 ## 💡 Purpose
 To demonstrate the integration of APIs with a React frontend and showcase personalized content delivery through client-side filtering.
 
-## 📸 Screenshots
-*You can add screenshots here if available.*
 
 ## 📁 Setup & Installation
 1. Clone the repository.
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to launch the app on `localhost`.
-
-## 📬 Contact
-For questions or collaboration, feel free to reach out!
 
 ---
 
